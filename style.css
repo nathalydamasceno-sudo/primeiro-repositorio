@@ -1,9 +1,15 @@
 body {
-    background-color: rgba(188, 64, 64, 0.972);
-    color:#0c7de0;
+    background-color: rgba(188, 64, 64, 0.972);   /* cor da fundo da pagina */
+    color:#0c7de0;                                /* cor escrita */
 }
 
 h1 {
-    font-size: 30px;
-    text-align: center;
+    font-size: 30px;              /* tamanho da fonte */
+    text-align: center;           /*centralizado */
+    text-transform: uppercase;    /* letras minusculas*/
+}
+
+p {
+    font-size: 16px;
+    color: aquamarine;
 }
