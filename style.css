@@ -1,6 +1,13 @@
 body {
-    background-color: rgba(188, 64, 64, 0.972);   /* cor da fundo da pagina */
-    color:#0c7de0;                                /* cor escrita */
+    background-color: rgba(246, 241, 241, 0.972);   /* cor da fundo da pagina */
+    color:#e805ce;                                /* cor escrita */
+}
+
+header {
+    border: solid 2px aquamarine;
+    font-size: 32px;
+    padding: 10px;
+    color: bisque;
 }
 
 h1 {
