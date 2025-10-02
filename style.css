@@ -1,6 +1,7 @@
 body {
     background-color: rgba(246, 241, 241, 0.972);   /* cor da fundo da pagina */
-    color:#e805ce;                                /* cor escrita */
+    color:#e805ce; 
+    font-family: "dancing", sans-serif;                               /* cor escrita */
 }
 
 header {
